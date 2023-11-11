@@ -1,16 +1,14 @@
-### Hi there 👋
+## Olá, eu sou o Hallife! 
 
-<!--
-**hmarques012/hmarques012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Não me chame de "hy life", pois na lingua inglesa isso é embaraçoso. HAHA
 
-Here are some ideas to get you started:
+### Seja bem vindo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou trabalhando na empresa GrupoCard como Assistente de Suporte Técnico.
+- 🌱 Estou aprendendo um pouco a cada dia a gerir a central de serviços, sempre com foco e paciência para garantir a satisfação dos usuários em relação a nossa TI.
+- 👯 Procuro colaborar com o meu time no Service Desk com as demandas internas, bem como pesquisa de informações para 
+aumentar a produtividade do setor. 
+- 🤔 Iniciante em documentação e as linguagens parecem gregas para mim.
+- 📫 Meu e-mail pessoal de contato: hallife.marques@hotmail.com
+- 😄 Pronome: Ele/Dele.
+- ⚡ Curiosidade: Conhecido por plantar uma fonte bomba no hardware do Call Center.
