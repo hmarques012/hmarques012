@@ -6,8 +6,7 @@ Não me chame de "hy life", pois na lingua inglesa isso é embaraçoso. HAHA
 
 - 🔭 Atualmente estou trabalhando na empresa GrupoCard como Assistente de Suporte Técnico.
 - 🌱 Estou aprendendo um pouco a cada dia a gerir a central de serviços, sempre com foco e paciência para garantir a satisfação dos usuários em relação a nossa TI.
-- 👯 Procuro colaborar com o meu time no Service Desk com as demandas internas, bem como a pesquisa de informações para 
-aumentar a produtividade do setor. 
+- 👯 Procuro colaborar com o meu time no Service Desk com as demandas internas, bem como a pesquisa de informações para aumentar a produtividade do setor. 
 - 🤔 Iniciante em documentação e as linguagens de programação parecem gregas para mim.
 - 📫 Meu e-mail pessoal de contato: hallife.marques@hotmail.com
 - 😄 Pronome: Ele/Dele.
