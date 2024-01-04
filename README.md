@@ -9,5 +9,4 @@ Não me chame de "hy life", pois na lingua inglesa isso é embaraçoso. HAHA
 - 👯 Procuro colaborar com o meu time no Service Desk com as demandas internas, bem como a pesquisa de informações para aumentar a produtividade do setor. 
 - 🤔 Iniciante em documentação e as linguagens de programação parecem gregas para mim.
 - 📫 Meu e-mail pessoal de contato: hallife.marques@hotmail.com
-- 😄 Pronome: Ele/Dele.
 - ⚡ Curiosidade: Conhecido por plantar uma fonte bomba no hardware do Call Center.
