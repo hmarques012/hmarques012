@@ -11,3 +11,4 @@ Não me chame de "hy life", pois na lingua inglesa isso é embaraçoso. HAHA
 - 📫 Meu e-mail pessoal de contato: hallife.marques@hotmail.com
 - ⚡ Curiosidade: Conhecido por plantar uma fonte bomba no hardware do Call Center.
 - Viva o que puder viver.
+- Viva a cada dia após o outro, sem pressa e sem stress.
