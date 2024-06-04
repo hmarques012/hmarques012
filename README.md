@@ -10,3 +10,4 @@ Não me chame de "hy life", pois na lingua inglesa isso é embaraçoso. HAHA
 - 🤔 Iniciante em documentação e as linguagens de programação parecem gregas para mim.
 - 📫 Meu e-mail pessoal de contato: hallife.marques@hotmail.com
 - ⚡ Curiosidade: Conhecido por plantar uma fonte bomba no hardware do Call Center.
+- Viva o que puder viver.
