@@ -39,4 +39,4 @@ Passo a passo abaixo:
 > Cerfique-se para ativar visualização de máquina virtual na BIOS.  
 
 __*OBRIGADO POR ACOMPANHAR ATÉ AQUI...*__  
-[gif](https://github.com/hmarques012/hmarques012/blob/main/thank-you-simon-cowell.gif)  
+![gif](https://github.com/hmarques012/hmarques012/blob/main/thank-you-simon-cowell.gif)  
