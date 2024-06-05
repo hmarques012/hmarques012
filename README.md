@@ -27,8 +27,10 @@ Não me chame de __*"hy life"*__, pois na lingua inglesa isso é embaraçoso. __
 Passo a passo abaixo:  
 
 + 1. Instale o GIT em seu equipamento, no link [GIT DOWNLOAD](https://www.git-scm.com/download/win "pagina oficial do git")  
-+ 2. Tenha um perfil/conta no GIT HUB ![GITHUB](C:\Users\halli\OneDrive\Imagens no geral\imagens\git hub icone.png)   
++ 2. Tenha um perfil/conta no GIT HUB  
+![github](https://github.com/hmarques012/hmarques012/blob/main/git%20hub%20icone.png).  
+
 + 3. Instale o Visual Studio Code - versão stable (versão estável) [Visual Studio Code](https://code.visualstudio.com "Visual Studio Download").  
    
 + 4. Instale o WSL em seu equipamento através da linha de comando wsl --install ou baixe o WSL na Microsoft Store.  
-> Cerfique-se para ativar visualização de máquina virtual na BIOS.  
+> Cerfique-se para ativar visualização de máquina virtual na BIOS.  <>
