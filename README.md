@@ -22,7 +22,7 @@ Não me chame de __*"hy life"*__, pois na lingua inglesa isso é embaraçoso. __
   
 ### Sobre mim ###
 
-+ Jovem brasileiro apaixonado por tecnologia. Desde criança, eu assistia ao programa “Olhar Digital” na Rede TV e ficava fascinado com as novidades do mundo digital. Hoje, eu trabalho como Assistente de Suporte Técnico no Grupo Card. No meu dia a dia, eu lido com os chamados internos dos colaboradores, resolvendo problemas técnicos e garantindo o bom funcionamento dos sistemas.  
++ Jovem brasileiro `apaixonado`  por tecnologia. Desde criança, eu assistia ao programa “Olhar Digital” na Rede TV e ficava fascinado com as novidades do mundo digital. Hoje, eu trabalho como Assistente de Suporte Técnico no Grupo Card. No meu dia a dia, eu lido com os chamados internos dos colaboradores, resolvendo problemas técnicos e garantindo o bom funcionamento dos sistemas.  
 
 >__*perfil colaborativo*__ - Hallife de Marins Marques
 
@@ -37,6 +37,14 @@ Passo a passo abaixo:
    
 + 4. Instale o WSL em seu equipamento através da linha de comando: **wsl --install** ou baixe o WSL na Microsoft Store.
 > Cerfique-se para ativar visualização de máquina virtual na BIOS.  
+
+| Nome | Idade | Profissão |
+| ----- |:-------:| ----------- |
+| Hallife | 29 | Assist de Sup. Tecn |
+| Nathalia | 23 | Segurança Patrimonial |
+
+Exemplo de código:  
+```gpupdate /force```  
 
 __*OBRIGADO POR ACOMPANHAR ATÉ AQUI...*__  
 ![gif](https://github.com/hmarques012/hmarques012/blob/main/thank-you-simon-cowell.gif)  
