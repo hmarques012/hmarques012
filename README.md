@@ -4,7 +4,7 @@ Não me chame de __*"hy life"*__, pois na lingua inglesa isso é embaraçoso. __
 
 ## Seja bem vindo ##
 
-- 🔭 Atualmente estou trabalhando na empresa GrupoCard como Assistente de Suporte Técnico.  
+- 🔭 Atualmente estou trabalhando na empresa Cardway como Assistente de Suporte Técnico.  
 
 - 🌱 Estou aprendendo um pouco a cada dia a gerir a central de serviços, sempre com foco e paciência para garantir a satisfação dos usuários em relação a nossa TI.  
   
