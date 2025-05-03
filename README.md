@@ -41,7 +41,7 @@ Passo a passo abaixo:
 | Nome | Idade | Profissão |
 | ----- |:-------:| ----------- |
 | Hallife | 29 | Assist de Sup. Tecn |
-| Nathalia | 23 | Segurança Patrimonial |
+| Fulano | 25 | Caçador |
 
 Exemplo de código:  
 ```gpupdate /force```  
